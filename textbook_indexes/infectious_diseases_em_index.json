@@ -1,0 +1,69 @@
+{
+  "title": "Emergency Management of Infectious Diseases",
+  "short_name": "EM Infectious Diseases",
+  "edition": "1st",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Evidence-based infectious disease reference for emergency medicine, covering sepsis, CNS infections, respiratory pathogens, tropical medicine, and ED antimicrobials.",
+  "chapters": [
+    {
+      "id": "id_01",
+      "chapter_title": "Sepsis and Systemic Infection",
+      "key_topics": [
+        "recognition",
+        "sepsis biomarkers",
+        "early antimicrobials",
+        "fluid therapy"
+      ],
+      "summary": "Outlines early recognition and ED management of sepsis and severe systemic infections.",
+      "tags": ["sepsis", "systemic infection"]
+    },
+    {
+      "id": "id_02",
+      "chapter_title": "CNS Infections",
+      "key_topics": [
+        "meningitis",
+        "encephalitis",
+        "LP decision-making",
+        "empiric therapy"
+      ],
+      "summary": "Summarises ED evaluation and treatment of central nervous system infections.",
+      "tags": ["meningitis", "encephalitis", "LP"]
+    },
+    {
+      "id": "id_03",
+      "chapter_title": "Respiratory Infections",
+      "key_topics": [
+        "pneumonia",
+        "influenza",
+        "COVID",
+        "upper airway infections"
+      ],
+      "summary": "Covers common and high-risk respiratory infections requiring ED assessment and treatment.",
+      "tags": ["pneumonia", "influenza", "respiratory infection"]
+    },
+    {
+      "id": "id_04",
+      "chapter_title": "Skin and Soft Tissue Infection",
+      "key_topics": [
+        "cellulitis",
+        "necrotising infection",
+        "abscess",
+        "operative consultation"
+      ],
+      "summary": "Provides a structured ED approach to skin and soft tissue infections including red flags for necrotising fasciitis.",
+      "tags": ["SSTI", "cellulitis", "nec fasc"]
+    },
+    {
+      "id": "id_05",
+      "chapter_title": "Tropical and Travel-related Infections",
+      "key_topics": [
+        "malaria",
+        "dengue",
+        "typhoid",
+        "parasites"
+      ],
+      "summary": "Summarises evaluation and empiric management of travel-related and tropical infections.",
+      "tags": ["travel infection", "tropical"]
+    }
+  ]
+}
