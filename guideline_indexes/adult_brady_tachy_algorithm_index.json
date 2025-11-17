@@ -1,0 +1,42 @@
+{
+  "guideline_name": "Adult Bradycardia and Tachycardia Algorithms",
+  "short_name": "Adult Brady/Tachy",
+  "region": "United Kingdom / International",
+  "topic": "Arrhythmias – Adult",
+  "type": "guideline",
+  "source": "Advanced life support bradycardia and tachycardia algorithms",
+  "url": "N/A (local copy in ED AI Tutor reference library)",
+  "when_to_use": "Adults with haemodynamically significant bradycardia or tachycardia requiring algorithm-based assessment and intervention.",
+  "key_sections": [
+    {
+      "id": "brad_01",
+      "section_title": "Adult Bradycardia – Initial Assessment",
+      "summary": "Assess for adverse features: hypotension, shock, chest pain, heart failure, or reduced consciousness. If present, treat urgently.",
+      "tags": ["bradycardia", "adverse features", "assessment"]
+    },
+    {
+      "id": "brad_02",
+      "section_title": "Bradycardia Management Pathway",
+      "summary": "For bradycardia with adverse features, give atropine 500 microg IV, repeat up to 3 mg as needed. Consider transcutaneous pacing, isoprenaline, or adrenaline infusion, and seek expert support.",
+      "tags": ["atropine", "pacing", "adrenaline infusion"]
+    },
+    {
+      "id": "tach_01",
+      "section_title": "Adult Tachycardia – Broad vs Narrow Complex",
+      "summary": "Assess QRS width and regularity to classify rhythm as narrow/broad and regular/irregular; identify immediate instability requiring cardioversion.",
+      "tags": ["tachycardia", "narrow complex", "broad complex"]
+    },
+    {
+      "id": "tach_02",
+      "section_title": "Tachycardia with Adverse Features",
+      "summary": "If tachycardia causes hypotension, shock, chest pain, heart failure, or altered mental state, perform synchronised DC cardioversion and consider antiarrhythmic support.",
+      "tags": ["unstable tachycardia", "cardioversion"]
+    },
+    {
+      "id": "tach_03",
+      "section_title": "Stable Narrow-Complex Tachycardia",
+      "summary": "In regular narrow-complex tachycardia consistent with SVT, consider vagal manoeuvres and adenosine; in irregular rhythm, treat as atrial fibrillation and use rate control and anticoagulation assessment.",
+      "tags": ["SVT", "AF", "rate control"]
+    }
+  ]
+}
