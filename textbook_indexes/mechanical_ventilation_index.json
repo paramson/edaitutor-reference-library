@@ -1,0 +1,83 @@
+{
+  "title": "Mechanical Ventilation in Emergency Medicine",
+  "short_name": "Mech Vent EM",
+  "edition": "1st",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Dedicated reference for ventilatory support in the ED including modes, strategies, troubleshooting, and physiology.",
+  "chapters": [
+    {
+      "id": "mv_01",
+      "chapter_title": "Principles of Mechanical Ventilation",
+      "key_topics": [
+        "respiratory physiology",
+        "oxygenation vs ventilation",
+        "positive pressure basics",
+        "compliance and resistance"
+      ],
+      "summary": "Covers fundamental respiratory physiology underpinning mechanical ventilation, including pressure–volume relationships and gas exchange.",
+      "tags": ["ventilation", "physiology", "respiratory"]
+    },
+    {
+      "id": "mv_02",
+      "chapter_title": "Modes of Ventilation",
+      "key_topics": [
+        "volume control",
+        "pressure control",
+        "SIMV",
+        "BiPAP/CPAP",
+        "high-flow nasal therapy"
+      ],
+      "summary": "Describes commonly used invasive and non-invasive ventilatory modes, including indications and practical settings.",
+      "tags": ["ventilation modes", "invasive", "noninvasive"]
+    },
+    {
+      "id": "mv_03",
+      "chapter_title": "Initiating Ventilation in the ED",
+      "key_topics": [
+        "initial settings",
+        "tidal volume selection",
+        "PEEP titration",
+        "FiO2 selection",
+        "monitoring"
+      ],
+      "summary": "Provides guidance for safely initiating mechanical ventilation immediately after ED intubation.",
+      "tags": ["initial ventilator settings", "post-intubation"]
+    },
+    {
+      "id": "mv_04",
+      "chapter_title": "Ventilation Strategies for Specific Conditions",
+      "key_topics": [
+        "ARDS",
+        "COPD",
+        "asthma",
+        "cardiogenic pulmonary oedema",
+        "obesity"
+      ],
+      "summary": "Outlines disease-specific ventilatory strategies for common ED presentations and physiologic challenges.",
+      "tags": ["ARDS", "asthma", "COPD", "ventilation strategy"]
+    },
+    {
+      "id": "mv_05",
+      "chapter_title": "Troubleshooting Ventilation Problems",
+      "key_topics": [
+        "high airway pressures",
+        "hypoxia",
+        "auto-PEEP",
+        "ventilator dyssynchrony"
+      ],
+      "summary": "Summarises systematic troubleshooting approaches for common ventilation problems encountered in the ED.",
+      "tags": ["troubleshooting", "dyssynchrony", "autoPEEP"]
+    },
+    {
+      "id": "mv_06",
+      "chapter_title": "Weaning and Extubation in the ED",
+      "key_topics": [
+        "readiness assessment",
+        "spontaneous breathing trial",
+        "extubation criteria"
+      ],
+      "summary": "Provides guidance for determining readiness for weaning and extubation in select ED scenarios.",
+      "tags": ["weaning", "extubation"]
+    }
+  ]
+}
