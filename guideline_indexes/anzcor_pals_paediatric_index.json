@@ -1,0 +1,42 @@
+{
+  "guideline_name": "ANZCOR Paediatric Advanced Life Support",
+  "short_name": "ANZCOR PALS (Paediatric)",
+  "region": "Australia & New Zealand",
+  "topic": "Resuscitation – Paediatric",
+  "type": "guideline",
+  "source": "ANZCOR paediatric resuscitation algorithms",
+  "url": "N/A (local copy in ED AI Tutor reference library)",
+  "when_to_use": "Any infant or child in actual or impending cardiac arrest, or during advanced paediatric resuscitation.",
+  "key_sections": [
+    {
+      "id": "pals_01",
+      "section_title": "Paediatric Arrest Recognition and Initial CPR",
+      "summary": "Identify unresponsiveness and abnormal breathing; start chest compressions at a ratio of 15:2 with two rescuers or 30:2 with one rescuer, using age-appropriate depth and rate.",
+      "tags": ["paeds CPR", "ratio", "initial actions"]
+    },
+    {
+      "id": "pals_02",
+      "section_title": "Shockable Rhythm Pathway (VF/VT)",
+      "summary": "Deliver 4 J/kg defibrillation for VF/pulseless VT, resume CPR immediately, give adrenaline after the second shock, and consider amiodarone after the third shock.",
+      "tags": ["paeds VF", "defibrillation", "amiodarone"]
+    },
+    {
+      "id": "pals_03",
+      "section_title": "Non-shockable Rhythm Pathway (PEA/Asystole)",
+      "summary": "For PEA/asystole, continue high-quality CPR, give adrenaline as soon as possible and then every 3–5 minutes, and search for reversible causes.",
+      "tags": ["paeds PEA", "asystole", "adrenaline"]
+    },
+    {
+      "id": "pals_04",
+      "section_title": "Airway and Breathing Management",
+      "summary": "Focus on basic airway manoeuvres, bag–mask ventilation, early oxygen, and advanced airway only when it does not interrupt compressions.",
+      "tags": ["airway", "bag-mask", "ventilation"]
+    },
+    {
+      "id": "pals_05",
+      "section_title": "Post-ROSC Paediatric Care",
+      "summary": "After ROSC, optimise oxygen and ventilation, maintain normoglycaemia and normothermia, and arrange paediatric ICU care when available.",
+      "tags": ["paeds ROSC", "PICU", "post-arrest"]
+    }
+  ]
+}
