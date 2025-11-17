@@ -1,0 +1,111 @@
+{
+  "title": "Clinical Procedures in Emergency Medicine",
+  "short_name": "Clinical Procedures EM",
+  "edition": "4th",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Procedural reference for stepwise ED procedures, sedation, and complication management.",
+  "chapters": [
+    {
+      "id": "proc_01",
+      "chapter_title": "Principles of Emergency Procedures",
+      "key_topics": [
+        "informed consent",
+        "aseptic technique",
+        "monitoring",
+        "complication recognition",
+        "documentation"
+      ],
+      "summary": "Outlines general principles that apply to all emergency procedures, including preparation, consent, equipment, monitoring, and management of complications.",
+      "tags": ["procedures", "consent", "safety"]
+    },
+    {
+      "id": "proc_02",
+      "chapter_title": "Airway Procedures",
+      "key_topics": [
+        "bag-mask ventilation",
+        "orotracheal intubation",
+        "supraglottic devices",
+        "cricothyrotomy",
+        "basic airway adjuncts"
+      ],
+      "summary": "Covers core airway procedures performed in the ED, focusing on indications, preparation, technique, and complication management.",
+      "tags": ["airway", "intubation", "cricothyrotomy"]
+    },
+    {
+      "id": "proc_03",
+      "chapter_title": "Breathing and Thoracic Procedures",
+      "key_topics": [
+        "needle decompression",
+        "tube thoracostomy",
+        "pigtail catheters",
+        "thoracentesis",
+        "ventilation interface"
+      ],
+      "summary": "Describes thoracic procedures used to manage pneumothorax, pleural effusion, and other acute thoracic conditions in the ED.",
+      "tags": ["thoracic", "chest drain", "pneumothorax"]
+    },
+    {
+      "id": "proc_04",
+      "chapter_title": "Vascular Access and Infusions",
+      "key_topics": [
+        "peripheral IV",
+        "central venous access",
+        "IO access",
+        "arterial lines",
+        "ultrasound guidance"
+      ],
+      "summary": "Provides practical guidance for obtaining vascular access in routine and resuscitation scenarios, with an emphasis on ultrasound-guided techniques.",
+      "tags": ["vascular access", "central line", "io", "arterial line"]
+    },
+    {
+      "id": "proc_05",
+      "chapter_title": "Sedation and Analgesia",
+      "key_topics": [
+        "procedural sedation",
+        "analgesic options",
+        "monitoring standards",
+        "drug selection",
+        "managing adverse events"
+      ],
+      "summary": "Summarises ED procedural sedation practices, including drug regimens, monitoring requirements, and management of respiratory or haemodynamic complications.",
+      "tags": ["sedation", "analgesia", "monitoring"]
+    },
+    {
+      "id": "proc_06",
+      "chapter_title": "Musculoskeletal Procedures",
+      "key_topics": [
+        "joint reduction",
+        "splinting",
+        "casting principles",
+        "arthrocentesis"
+      ],
+      "summary": "Discusses practical technique for joint reductions, splint and cast application, and joint aspiration in the ED.",
+      "tags": ["orthopaedics", "reduction", "splinting", "arthrocentesis"]
+    },
+    {
+      "id": "proc_07",
+      "chapter_title": "Soft Tissue and Wound Procedures",
+      "key_topics": [
+        "wound assessment",
+        "local anaesthesia",
+        "suturing",
+        "abscess drainage",
+        "wound aftercare"
+      ],
+      "summary": "Provides stepwise guidance for wound closure, abscess drainage, and associated soft tissue procedures in emergency care.",
+      "tags": ["wound", "suturing", "incision and drainage"]
+    },
+    {
+      "id": "proc_08",
+      "chapter_title": "Eye, ENT, and Minor Procedures",
+      "key_topics": [
+        "eye irrigation",
+        "foreign body removal",
+        "epistaxis control",
+        "ear procedures"
+      ],
+      "summary": "Describes common minor procedures in ophthalmology and ENT relevant to ED practice.",
+      "tags": ["eye", "ent", "minor procedures"]
+    }
+  ]
+}
