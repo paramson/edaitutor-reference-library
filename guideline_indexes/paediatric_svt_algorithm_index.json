@@ -1,0 +1,48 @@
+{
+  "guideline_name": "Paediatric Supraventricular Tachycardia Algorithm",
+  "short_name": "Paediatric SVT",
+  "region": "Australia & New Zealand",
+  "topic": "Arrhythmias – Paediatric",
+  "type": "guideline",
+  "source": "Paediatric SVT flowchart (shock vs non-shock, vagal manoeuvres, adenosine dosing, DC cardioversion)",
+  "url": "N/A (local copy in ED AI Tutor reference library)",
+  "when_to_use": "Children with suspected SVT presenting with narrow-complex tachycardia, especially when considering vagal manoeuvres, adenosine, or DC cardioversion.",
+  "key_sections": [
+    {
+      "id": "svt_01",
+      "section_title": "Assess for Shock",
+      "summary": "Determine if the child has poor perfusion, hypotension, or altered mental state. If shocked, prioritise immediate synchronised DC cardioversion.",
+      "tags": ["shock", "unstable SVT", "cardioversion"]
+    },
+    {
+      "id": "svt_02",
+      "section_title": "Immediate DC Cardioversion Pathway",
+      "summary": "Give synchronised DC shock 1 J/kg; if unsuccessful, increase to 2 J/kg and repeat as required. Call for senior/ICU/cardiology support early.",
+      "tags": ["DC shock", "1 J/kg", "2 J/kg"]
+    },
+    {
+      "id": "svt_03",
+      "section_title": "Stable SVT – Vagal Manoeuvres and ECG",
+      "summary": "For stable children, obtain ECG, attempt vagal manoeuvres if appropriate, and assess for pre-excitation or alternative rhythms.",
+      "tags": ["vagal manoeuvres", "ECG", "stable SVT"]
+    },
+    {
+      "id": "svt_04",
+      "section_title": "Adenosine Dosing Pathway",
+      "summary": "Give rapid IV adenosine via large-bore peripheral IV with 3-way tap and rapid flush. First dose 100 microg/kg (max 6 mg), second dose 200 microg/kg (max 12 mg), third dose 300 microg/kg (max 12 mg) at 2-minute intervals.",
+      "tags": ["adenosine", "dose", "rapid push"]
+    },
+    {
+      "id": "svt_05",
+      "section_title": "Adenosine Administration Safety Notes",
+      "summary": "Ensure ECG trace is recording, warn child/parents about transient chest discomfort or flushing, and always insert cannula prior to drawing up adenosine to avoid spontaneous reversion.",
+      "tags": ["safety", "ECG monitoring", "counselling"]
+    },
+    {
+      "id": "svt_06",
+      "section_title": "Failure to Terminate SVT",
+      "summary": "If SVT persists after adenosine, consult cardiology for alternative therapies, reassess diagnosis, and consider further antiarrhythmic medications.",
+      "tags": ["refractory SVT", "cardiology consult"]
+    }
+  ]
+}
