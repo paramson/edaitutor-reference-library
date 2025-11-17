@@ -1,0 +1,176 @@
+{
+  "title": "Rosen’s Emergency Medicine: Concepts and Clinical Practice",
+  "short_name": "Rosen",
+  "edition": "8th",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Deep conceptual and pathophysiology-based reference for emergency medicine, used for advanced explanations and fellowship-level reasoning.",
+  "chapters": [
+    {
+      "id": "ros_01",
+      "chapter_title": "Foundations of Emergency Medicine and Resuscitation",
+      "key_topics": [
+        "biology of emergency medicine",
+        "resuscitation principles",
+        "evidence-based EM",
+        "ethics",
+        "systems of care"
+      ],
+      "summary": "Describes the conceptual foundations of emergency medicine, with emphasis on pathophysiology-driven resuscitation and systems-level perspectives.",
+      "tags": ["foundations", "resuscitation", "concepts"]
+    },
+    {
+      "id": "ros_02",
+      "chapter_title": "Shock and Critical Illness",
+      "key_topics": [
+        "shock classification",
+        "microcirculation",
+        "resuscitation endpoints",
+        "vasopressor use",
+        "multiorgan failure"
+      ],
+      "summary": "Provides an in-depth, physiology-based discussion of shock and critical illness, guiding nuanced ED resuscitation strategies.",
+      "tags": ["critical care", "shock", "resuscitation"]
+    },
+    {
+      "id": "ros_03",
+      "chapter_title": "Cardiovascular Disorders",
+      "key_topics": [
+        "ACS pathophysiology",
+        "arrhythmias",
+        "aortic emergencies",
+        "pericardial disease",
+        "heart failure"
+      ],
+      "summary": "Explores advanced concepts in cardiovascular emergencies, integrating pathophysiology with ED diagnosis and acute management.",
+      "tags": ["cardiology", "acs", "arrhythmia", "aorta"]
+    },
+    {
+      "id": "ros_04",
+      "chapter_title": "Respiratory and Thoracic Disorders",
+      "key_topics": [
+        "respiratory failure mechanisms",
+        "asthma and COPD",
+        "PE and VTE",
+        "pneumothorax",
+        "thoracic trauma"
+      ],
+      "summary": "Discusses respiratory pathophysiology and its implications for ED management of acute dyspnoea and thoracic emergencies.",
+      "tags": ["respiratory", "failure", "thoracic", "pe"]
+    },
+    {
+      "id": "ros_05",
+      "chapter_title": "Neurologic and Neurosurgical Disorders",
+      "key_topics": [
+        "CNS blood flow",
+        "stroke syndromes",
+        "raised intracranial pressure",
+        "status epilepticus",
+        "CNS infections"
+      ],
+      "summary": "Provides high-level coverage of neurological emergencies, including cerebrovascular disease, seizures, and neurocritical care concepts.",
+      "tags": ["neurology", "stroke", "seizure", "neurocritical"]
+    },
+    {
+      "id": "ros_06",
+      "chapter_title": "Abdominal, Gastrointestinal, and Hepatobiliary Disorders",
+      "key_topics": [
+        "abdominal pain frameworks",
+        "GI bleeding",
+        "hepatobiliary emergencies",
+        "mesenteric ischaemia",
+        "peritonitis"
+      ],
+      "summary": "Analyses abdominal and gastrointestinal emergencies from a pathophysiologic and diagnostic reasoning perspective.",
+      "tags": ["gastrointestinal", "abdominal", "liver", "gi bleed"]
+    },
+    {
+      "id": "ros_07",
+      "chapter_title": "Infectious Disease and the Immunocompromised Host",
+      "key_topics": [
+        "host response",
+        "sepsis mechanisms",
+        "CNS infection",
+        "pneumonia",
+        "opportunistic infections"
+      ],
+      "summary": "Focuses on serious infections and the unique considerations of the immunocompromised patient in the ED.",
+      "tags": ["infectious diseases", "sepsis", "immunocompromised"]
+    },
+    {
+      "id": "ros_08",
+      "chapter_title": "Trauma and Injury Biology",
+      "key_topics": [
+        "trauma systems",
+        "shock in trauma",
+        "blunt and penetrating trauma",
+        "traumatic brain injury",
+        "spinal trauma"
+      ],
+      "summary": "Provides a conceptual framework for trauma care, integrating physiology, systems of care, and ED priorities.",
+      "tags": ["trauma", "tbi", "spine", "systems"]
+    },
+    {
+      "id": "ros_09",
+      "chapter_title": "Musculoskeletal and Orthopaedic Disorders",
+      "key_topics": [
+        "fracture biology",
+        "joint injuries",
+        "compartment syndrome",
+        "septic arthritis",
+        "back pain"
+      ],
+      "summary": "Explores the biology and clinical presentation of musculoskeletal and orthopaedic conditions seen in the ED.",
+      "tags": ["orthopaedics", "fracture", "joint", "compartment"]
+    },
+    {
+      "id": "ros_10",
+      "chapter_title": "Toxicology and Environmental Emergencies",
+      "key_topics": [
+        "toxin kinetics",
+        "toxidromes",
+        "antidotes",
+        "envenomation",
+        "heat and cold injury"
+      ],
+      "summary": "Describes the underlying principles of toxicology and environmental injury, informing rational ED management.",
+      "tags": ["toxicology", "environmental", "antidotes"]
+    },
+    {
+      "id": "ros_11",
+      "chapter_title": "Obstetric, Gynaecologic, and Genitourinary Disorders",
+      "key_topics": [
+        "pregnancy physiology",
+        "early pregnancy complications",
+        "hypertensive disorders of pregnancy",
+        "GU emergencies"
+      ],
+      "summary": "Addresses emergencies related to pregnancy, gynaecological pathology, and genitourinary presentations in the ED.",
+      "tags": ["obstetrics", "pregnancy", "gynaecology", "gu"]
+    },
+    {
+      "id": "ros_12",
+      "chapter_title": "Paediatric Emergency Medicine",
+      "key_topics": [
+        "paediatric physiology",
+        "paediatric shock",
+        "paediatric respiratory disease",
+        "paediatric trauma"
+      ],
+      "summary": "Covers fundamental concepts and disease patterns in paediatric emergency medicine, aligned with EM pathophysiology.",
+      "tags": ["paediatrics", "paeds shock", "paeds trauma"]
+    },
+    {
+      "id": "ros_13",
+      "chapter_title": "Special Topics, Systems, and Ethics",
+      "key_topics": [
+        "end-of-life care",
+        "ethics in EM",
+        "disaster medicine",
+        "EMS systems",
+        "quality and patient safety"
+      ],
+      "summary": "Addresses ED systems, ethics, prehospital care interactions, and quality frameworks for emergency medicine practice.",
+      "tags": ["systems", "ethics", "disaster", "quality"]
+    }
+  ]
+}
