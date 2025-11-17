@@ -1,0 +1,19 @@
+{
+  "title": "Snake Bite Pathway for Hospitals",
+  "source": "NSW Health",
+  "year": 2023,
+  "category": "toxicology_envenomation",
+  "summary": "Hospital clinical pathway for assessment and management of snake bite. Covers clinical syndromes, venom detection kit use, antivenom selection and dosing, monitoring requirements, complications, and paediatric considerations.",
+  "sections": [
+    "Initial assessment",
+    "Clinical syndromes",
+    "Venom detection kit",
+    "Antivenom selection",
+    "Antivenom administration",
+    "Monitoring",
+    "Complications",
+    "Paediatric considerations",
+    "Disposition"
+  ],
+  "file": "Snake-Bite-Pathway-For-Hospitals.pdf"
+}
