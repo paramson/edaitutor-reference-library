@@ -86,7 +86,26 @@
     },
     "foamed_resources": {
       "description": "LITFL, EMCRIT, EM Cases, DFTB summaries",
-      "files": []
+      "files": [ "https://litfl.com/",
+    "https://emcrit.org/",
+    "https://emergencymedicinecases.com/",
+    "https://dontforgetthebubbles.com/",
+    "https://first10em.com/",
+    "https://ultrasoundpodcast.com/",
+    "https://coreem.net/",
+    "https://www.nuemblog.com/",
+    "https://www.rcemlearning.co.uk/",
+    "https://scanfoam.org/",
+    "https://ketamine.monster/",
+    "https://emcrit.org/pulmcrit/",
+    "https://www.tamingthesru.com/",
+    "https://airwayninja.org/",
+    "https://www.vortexapproach.org/",
+    "https://www.neuraxiom.com/",
+    "https://highlandultrasound.com/",
+    "https://dislocation.com.au/",
+    "https://app.emergencyprocedures.org/onboarding",
+    "https://www.edguidelines.com/"]
     },
     "pharmacology": {
       "description": "Drug monographs, dosing, sedation, infusions",
