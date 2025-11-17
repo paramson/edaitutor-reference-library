@@ -14,15 +14,25 @@
     },
     "paediatrics_general": {
       "description": "General paediatrics guidelines and pathways",
-      "files": []
+      "files": ["https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/",
+"https://www.rch.org.au/clinicalguide/",
+"https://starship.org.nz/guidelines/"
+]
     },
     "toxicology": {
       "description": "Toxicology algorithms and antidotes",
-      "files": []
+      "files": ["https://www.toxinz.com/",
+"https://litfl.com/toxicology-library/",
+"https://www.austin.org.au/txic/"
+]
     },
     "airway_management": {
       "description": "Airway algorithms, RSI guides, oxygenation strategies",
-      "files": []
+      "files": ["https://www.vortexapproach.org/",
+"https://www.amax4.org/",
+"https://airwayninja.org/",
+"https://emcrit.org/ibcc/airway/"
+]
     },
     "cardiology": {
       "description": "ACS, arrhythmias, ECG frameworks",
@@ -42,7 +52,10 @@
 
     "neurology": {
       "description": "Stroke, seizures, meningitis, SAH",
-      "files": []
+      "files": ["https://www.edguidelines.com/the-hints-exam-masterclass-how-to-understand-and-perform-perfectly/",
+"https://www.edguidelines.com/approach-to-dizziness-vertigo-based-on-the-grace-3-guidelines/",
+"https://www.edguidelines.com/status-epilepticus-medication-management/"
+]
     },
     "orthopaedics": {
       "description": "Fracture management, reductions, splints",
@@ -50,11 +63,17 @@
     },
     "trauma": {
       "description": "ATLS, trauma surveys, imaging pathways",
-      "files": []
+      "files": ["https://trauma.reach.vic.gov.au/guidelines/pre-hospital-triage/key-messages/",
+"https://aci.health.nsw.gov.au/networks/eci/clinical/tools/trauma",
+"https://aci.health.nsw.gov.au/networks/eci/clinical/tools/orthopaedic-and-musculoskeletal"
+]
     },
     "imaging_guides": {
       "description": "X-ray frameworks, CT decision rules, ultrasound",
-      "files": []
+      "files": ["https://www.rcr.ac.uk/.../emergency-computed-tomography-scans-contrast-agents/",
+"https://www.radiologyacrossborders.org/diagnostic_imaging_pathways/",
+"https://www.edguidelines.com/simplified-cervical-spine-imaging-pathway/"
+]
     },
     "clinical_cases": {
       "description": "ED case library for real-world scenarios",
@@ -113,7 +132,10 @@
     },
     "procedures": {
       "description": "Airway, chest, lines, sedation, ultrasound procedures",
-      "files": []
+      "files": ["https://app.emergencyprocedures.org/onboarding",
+"https://www.edguidelines.com/approach-to-procedural-sedation/",
+"https://www.edguidelines.com/stepwise-approach-to-apnoea-during-procedural-sedation/"
+]
     },
     "systems_guidelines": {
       "description": "Respiratory, cardiovascular, renal, GI, endocrine, infectious diseases",
