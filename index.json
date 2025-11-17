@@ -35,6 +35,7 @@
     "toxicology": {
       "description": "Toxicology algorithms and antidotes",
       "files": [
+"https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/snake_bite_pathway_index.json"
 "https://www.toxinz.com/",       
 "https://litfl.com/toxicology-library/",
 "https://www.austin.org.au/txic/",
@@ -119,6 +120,8 @@
     "orthopaedics": {
       "description": "Fracture management, reductions, splints",
       "files": [
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/aci_hand_injuries_guideline_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/aci_common_hand_conditions_index.json"
     "https://aci.health.nsw.gov.au/networks/eci/clinical/orthopaedic-and-musculoskeletal",
     "https://aci.health.nsw.gov.au/resources/orthopaedics",
     "https://healthywa.health.wa.gov.au/Articles/A_E/Emergency-department-orthopaedic-guidelines",
@@ -242,6 +245,7 @@
     "pharmacology": {
       "description": "Drug monographs, dosing, sedation, infusions",
       "files": [
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/acute_pain_management_2020_index.json"
     "https://www.tga.gov.au/products/medicines",
     "https://www.nps.org.au/medicine-finder",
     "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/clinical+resources/immunisation+and+medication/medications+and+prescribing",
@@ -274,6 +278,8 @@
     "systems_guidelines": {
       "description": "Triage systems, early warning, sepsis, mental health, ED-wide pathways",
       "files": [
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/aci_eye_emergency_manual_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/doac_anticoagulation_guideline_index.json"
     "https://www.health.gov.au/resources/publications/australasian-triage-scale-ats",
     "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/clinical+resources/clinical+programs+and+practice+guidelines/severe+sepsis+and+septic+shock",
     "https://aci.health.nsw.gov.au/networks/sepsis/resources",
