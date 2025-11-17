@@ -1,0 +1,165 @@
+{
+  "title": "Tintinalli’s Emergency Medicine Manual",
+  "short_name": "Tintinalli Manual",
+  "edition": "8th",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Core adult emergency medicine reference for initial assessment, common conditions, and ED-oriented management.",
+  "chapters": [
+    {
+      "id": "tint_01",
+      "chapter_title": "Approach to the Emergency Patient",
+      "key_topics": [
+        "ED triage",
+        "primary assessment",
+        "resuscitation bay workflow",
+        "ED documentation",
+        "handover"
+      ],
+      "summary": "Provides a practical framework for approaching undifferentiated ED patients, including triage, focused history and exam, and safe disposition planning.",
+      "tags": ["general", "assessment", "workflow"]
+    },
+    {
+      "id": "tint_02",
+      "chapter_title": "Resuscitation and Shock",
+      "key_topics": [
+        "shock types",
+        "fluid resuscitation",
+        "vasopressors",
+        "sepsis recognition",
+        "bedside ultrasound in shock"
+      ],
+      "summary": "Summarises recognition and initial management of distributive, hypovolaemic, cardiogenic, and obstructive shock, with ED-focused resuscitation strategies.",
+      "tags": ["resuscitation", "shock", "sepsis"]
+    },
+    {
+      "id": "tint_03",
+      "chapter_title": "Cardiovascular Emergencies",
+      "key_topics": [
+        "acute coronary syndrome",
+        "arrhythmias",
+        "heart failure",
+        "hypertensive emergencies",
+        "pericardial disease"
+      ],
+      "summary": "Covers ED evaluation and stabilisation of acute chest pain, ACS, rhythm disturbances, acute heart failure, and other major cardiovascular emergencies.",
+      "tags": ["cardiology", "acs", "arrhythmia", "heart failure"]
+    },
+    {
+      "id": "tint_04",
+      "chapter_title": "Respiratory Emergencies",
+      "key_topics": [
+        "dyspnoea",
+        "asthma",
+        "COPD exacerbation",
+        "pneumonia",
+        "pulmonary embolism"
+      ],
+      "summary": "Focuses on acute dyspnoea and major respiratory pathologies, including ED-based risk stratification and oxygenation/ventilation strategies.",
+      "tags": ["respiratory", "asthma", "copd", "pe"]
+    },
+    {
+      "id": "tint_05",
+      "chapter_title": "Neurologic Emergencies",
+      "key_topics": [
+        "stroke",
+        "TIA",
+        "seizures",
+        "status epilepticus",
+        "headache",
+        "neuromuscular weakness"
+      ],
+      "summary": "Outlines assessment and time-critical management of stroke, seizures, headache, and focal neurological deficits in the ED.",
+      "tags": ["neurology", "stroke", "seizure", "headache"]
+    },
+    {
+      "id": "tint_06",
+      "chapter_title": "Abdominal and Gastrointestinal Emergencies",
+      "key_topics": [
+        "acute abdomen",
+        "GI bleeding",
+        "pancreatitis",
+        "appendicitis",
+        "biliary disease"
+      ],
+      "summary": "Covers structured evaluation of abdominal pain and gastrointestinal emergencies, including imaging decisions and surgical consultation triggers.",
+      "tags": ["gastrointestinal", "abdominal pain", "gi bleed"]
+    },
+    {
+      "id": "tint_07",
+      "chapter_title": "Infectious Disease in the Emergency Department",
+      "key_topics": [
+        "sepsis bundles",
+        "meningitis",
+        "pneumonia",
+        "skin and soft tissue infection",
+        "travel-related infection"
+      ],
+      "summary": "Summarises ED recognition, investigation, and empiric treatment of common and high-risk infectious presentations, including sepsis pathways.",
+      "tags": ["infectious diseases", "sepsis", "ssti", "meningitis"]
+    },
+    {
+      "id": "tint_08",
+      "chapter_title": "Trauma and Musculoskeletal Emergencies",
+      "key_topics": [
+        "trauma assessment",
+        "fracture patterns",
+        "dislocations",
+        "spine injuries",
+        "analgesia in trauma"
+      ],
+      "summary": "Provides an overview of initial trauma assessment and management of common ED fractures and dislocations, including reduction and immobilisation principles.",
+      "tags": ["trauma", "orthopaedics", "fracture", "dislocation"]
+    },
+    {
+      "id": "tint_09",
+      "chapter_title": "Paediatric Emergencies",
+      "key_topics": [
+        "paediatric assessment triangle",
+        "fever in children",
+        "paediatric respiratory disease",
+        "seizures",
+        "paediatric trauma"
+      ],
+      "summary": "Provides high-yield guidance for paediatric presentations, including initial assessment, age-specific red flags, and common ED paediatric conditions.",
+      "tags": ["paediatrics", "fever", "paeds trauma"]
+    },
+    {
+      "id": "tint_10",
+      "chapter_title": "Toxicology and Environmental Emergencies",
+      "key_topics": [
+        "poisoned patient approach",
+        "analgesic overdose",
+        "sedative overdose",
+        "envenomation",
+        "temperature-related illness"
+      ],
+      "summary": "Covers general approach to poisoning, common drug overdoses, envenomations, and environmental exposures relevant to ED practice.",
+      "tags": ["toxicology", "overdose", "environmental"]
+    },
+    {
+      "id": "tint_11",
+      "chapter_title": "Obstetric and Gynaecologic Emergencies",
+      "key_topics": [
+        "early pregnancy complications",
+        "ectopic pregnancy",
+        "vaginal bleeding",
+        "hypertensive disorders of pregnancy"
+      ],
+      "summary": "Summarises ED evaluation and stabilisation of early and late pregnancy emergencies, with a focus on maternal safety and obstetric consultation.",
+      "tags": ["obstetrics", "pregnancy", "gynaecology"]
+    },
+    {
+      "id": "tint_12",
+      "chapter_title": "Special Populations, Procedures, and ED Operations",
+      "key_topics": [
+        "older adults",
+        "immunocompromised patients",
+        "procedural sedation",
+        "pain management",
+        "ED operations"
+      ],
+      "summary": "Addresses emergency care considerations for vulnerable populations and key operational topics, including procedural sedation and analgesia.",
+      "tags": ["procedures", "operations", "elderly", "sedation"]
+    }
+  ]
+}
