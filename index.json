@@ -1,0 +1,76 @@
+{
+  "about": "ED AI Tutor Reference Library Index",
+  "version": "2025.01",
+  "author": "ED AI Tutor Project",
+  "instructions": "Use this index to locate ANY external guideline, textbook index, or module. Read files only via raw GitHub URLs.",
+  "resources": {
+    "adult_resuscitation": {
+      "description": "ANZCOR, ALS, dysrhythmias, shock, airway",
+      "files": []
+    },
+    "paediatric_resuscitation": {
+      "description": "Paediatric ALS, shock, asthma, arrest",
+      "files": []
+    },
+    "paediatrics_general": {
+      "description": "General paediatrics guidelines and pathways",
+      "files": []
+    },
+    "toxicology": {
+      "description": "Toxicology algorithms and antidotes",
+      "files": []
+    },
+    "airway_management": {
+      "description": "Airway algorithms, RSI guides, oxygenation strategies",
+      "files": []
+    },
+    "cardiology": {
+      "description": "ACS, arrhythmias, ECG frameworks",
+      "files": []
+    },
+    "neurology": {
+      "description": "Stroke, seizures, meningitis, SAH",
+      "files": []
+    },
+    "orthopaedics": {
+      "description": "Fracture management, reductions, splints",
+      "files": []
+    },
+    "trauma": {
+      "description": "ATLS, trauma surveys, imaging pathways",
+      "files": []
+    },
+    "imaging_guides": {
+      "description": "X-ray frameworks, CT decision rules, ultrasound",
+      "files": []
+    },
+    "clinical_cases": {
+      "description": "ED case library for real-world scenarios",
+      "files": []
+    },
+    "exam_resources": {
+      "description": "ACEM/RCEM blueprints, MCQ and viva frameworks",
+      "files": []
+    },
+    "textbook_indexes": {
+      "description": "Chapter maps for Tintinalli, Rosen's, Cameron, Nelson",
+      "files": []
+    },
+    "foamed_resources": {
+      "description": "LITFL, EMCRIT, EM Cases, DFTB summaries",
+      "files": []
+    },
+    "pharmacology": {
+      "description": "Drug monographs, dosing, sedation, infusions",
+      "files": []
+    },
+    "procedures": {
+      "description": "Airway, chest, lines, sedation, ultrasound procedures",
+      "files": []
+    },
+    "systems_guidelines": {
+      "description": "Respiratory, cardiovascular, renal, GI, endocrine, infectious diseases",
+      "files": []
+    }
+  }
+}
