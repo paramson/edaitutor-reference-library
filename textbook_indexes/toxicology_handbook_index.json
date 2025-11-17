@@ -1,0 +1,70 @@
+{
+  "title": "Toxicology Handbook",
+  "short_name": "Toxicology Handbook AU",
+  "edition": "3rd",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Primary toxicology reference using Australian best-practice pathways, antidote guidance, and toxidrome recognition.",
+  "chapters": [
+    {
+      "id": "tox_01",
+      "chapter_title": "Approach to the Poisoned Patient",
+      "key_topics": [
+        "initial stabilisation",
+        "ABCDE in poisoning",
+        "toxidrome approach",
+        "decontamination principles"
+      ],
+      "summary": "Describes the general approach to initial assessment and stabilisation of poisoned patients, highlighting toxidrome-based frameworks.",
+      "tags": ["toxidrome", "poisoning", "decontamination"]
+    },
+    {
+      "id": "tox_02",
+      "chapter_title": "Common Drug Overdoses",
+      "key_topics": [
+        "paracetamol overdose",
+        "opiates",
+        "benzodiazepines",
+        "TCAs",
+        "SSRIs"
+      ],
+      "summary": "Provides guidance for diagnosis, risk assessment, and management of high-yield drug overdoses in Australian EDs.",
+      "tags": ["drug overdose", "paracetamol", "opiates", "TCAs"]
+    },
+    {
+      "id": "tox_03",
+      "chapter_title": "Cardiotoxic Agents",
+      "key_topics": [
+        "beta blockers",
+        "calcium channel blockers",
+        "digoxin",
+        "sodium channel blockade"
+      ],
+      "summary": "Summarises recognition, ECG findings, and antidote management for cardiotoxic ingestions.",
+      "tags": ["cardiotoxicity", "ccb", "beta blockers"]
+    },
+    {
+      "id": "tox_04",
+      "chapter_title": "Environmental and Envenomation",
+      "key_topics": [
+        "snake bite",
+        "spider bite",
+        "marine envenomation",
+        "heat illness"
+      ],
+      "summary": "Covers Australian environmental emergencies and envenomation, including antivenom indications.",
+      "tags": ["envenomation", "snake bite", "antivenom"]
+    },
+    {
+      "id": "tox_05",
+      "chapter_title": "Antidotes and Enhanced Elimination",
+      "key_topics": [
+        "NAC infusion",
+        "bicarbonate therapy",
+        "lipid emulsion therapy",
+        "dialysis indications"
+      ],
+      "summary": "Describes key antidotes and advanced elimination techniques relevant to toxicology emergencies.",
+      "tags": ["antidotes", "NAC", "lipid therapy", "dialysis"]
+    }
+  ]
+}
