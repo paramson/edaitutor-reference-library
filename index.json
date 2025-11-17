@@ -58,7 +58,19 @@
     "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/rosens_index.json",
     "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/cameron_adult_em_index.json",
     "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/clinical_procedures_ed_index.json",
-    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/airway_manual_index.json"]
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/airway_manual_index.json",
+
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/mechanical_ventilation_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/paediatric_emergency_medicine_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/paediatric_ortho_secrets_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/ao_fracture_management_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/current_essentials_orthopedics_index.json",
+
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/toxicology_handbook_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/infectious_diseases_em_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/dermatological_emergencies_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/obstetric_emergencies_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/nelson_pediatrics_index.json"]
     },
     "foamed_resources": {
       "description": "LITFL, EMCRIT, EM Cases, DFTB summaries",
