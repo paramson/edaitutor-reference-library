@@ -1,0 +1,57 @@
+{
+  "title": "AO Principles of Fracture Management",
+  "short_name": "AO Principles",
+  "edition": "3rd",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Authoritative reference on fracture biology, fixation principles, and surgical indications.",
+  "chapters": [
+    {
+      "id": "ao_01",
+      "chapter_title": "Fracture Biology and Healing",
+      "key_topics": [
+        "primary healing",
+        "secondary healing",
+        "callus formation",
+        "mechanical stability"
+      ],
+      "summary": "Covers the biology of fracture healing and the mechanical environment required for optimal recovery.",
+      "tags": ["fracture healing", "biology"]
+    },
+    {
+      "id": "ao_02",
+      "chapter_title": "Principles of Reduction and Fixation",
+      "key_topics": [
+        "reduction techniques",
+        "splintage",
+        "plating",
+        "nailing"
+      ],
+      "summary": "Summarises key principles of anatomic reduction, fixation stability, and implant choice.",
+      "tags": ["reduction", "fixation"]
+    },
+    {
+      "id": "ao_03",
+      "chapter_title": "Fractures of the Upper Limb",
+      "key_topics": [
+        "clavicle",
+        "proximal humerus",
+        "forearm",
+        "wrist"
+      ],
+      "summary": "Provides systematic guidance for upper limb fracture classification and management.",
+      "tags": ["upper limb fractures"]
+    },
+    {
+      "id": "ao_04",
+      "chapter_title": "Fractures of the Lower Limb",
+      "key_topics": [
+        "femur",
+        "tibia",
+        "ankle",
+        "foot"
+      ],
+      "summary": "Discusses classification and stabilisation options for lower limb fractures.",
+      "tags": ["lower limb fractures"]
+    }
+  ]
+}
