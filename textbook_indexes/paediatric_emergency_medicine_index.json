@@ -1,0 +1,94 @@
+{
+  "title": "Textbook of Paediatric Emergency Medicine",
+  "short_name": "Paediatric EM",
+  "edition": "3rd",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Core paediatric emergency reference covering acute illness, trauma, procedures, and developmental considerations.",
+  "chapters": [
+    {
+      "id": "pem_01",
+      "chapter_title": "Paediatric Assessment",
+      "key_topics": [
+        "paediatric assessment triangle",
+        "physiology by age",
+        "red flags",
+        "approach to undifferentiated child"
+      ],
+      "summary": "Covers structured paediatric assessment including appearance, breathing, and circulation, supported by age-specific physiology.",
+      "tags": ["paeds", "assessment", "PAT"]
+    },
+    {
+      "id": "pem_02",
+      "chapter_title": "Respiratory Emergencies",
+      "key_topics": [
+        "bronchiolitis",
+        "asthma",
+        "croup",
+        "pneumonia",
+        "respiratory failure"
+      ],
+      "summary": "Provides guidance for management of common paediatric respiratory presentations, including severity assessment and escalation.",
+      "tags": ["respiratory", "asthma", "bronchiolitis"]
+    },
+    {
+      "id": "pem_03",
+      "chapter_title": "Cardiovascular and Shock",
+      "key_topics": [
+        "paediatric shock",
+        "fluid resuscitation",
+        "cardiac causes",
+        "sepsis in children"
+      ],
+      "summary": "Summarises evaluation and management of shock in children, highlighting unique physiological responses compared to adults.",
+      "tags": ["shock", "paeds shock", "sepsis"]
+    },
+    {
+      "id": "pem_04",
+      "chapter_title": "Neurology and Seizures",
+      "key_topics": [
+        "seizures",
+        "status epilepticus",
+        "head injury",
+        "meningitis"
+      ],
+      "summary": "Covers acute neurological presentations including seizures, trauma, and CNS infections in paediatric patients.",
+      "tags": ["neurology", "seizures", "meningitis"]
+    },
+    {
+      "id": "pem_05",
+      "chapter_title": "Gastrointestinal and Abdominal Emergencies",
+      "key_topics": [
+        "abdominal pain",
+        "appendicitis",
+        "intussusception",
+        "vomiting"
+      ],
+      "summary": "Provides ED-based frameworks for evaluating acute abdominal presentations in children.",
+      "tags": ["abdomen", "appendicitis", "intussusception"]
+    },
+    {
+      "id": "pem_06",
+      "chapter_title": "Trauma in Children",
+      "key_topics": [
+        "paediatric trauma systems",
+        "head trauma",
+        "long bone fractures",
+        "c-spine considerations"
+      ],
+      "summary": "Discusses trauma mechanisms, assessment, and management specific to paediatric physiology.",
+      "tags": ["paeds trauma", "head injury"]
+    },
+    {
+      "id": "pem_07",
+      "chapter_title": "Paediatric Procedures",
+      "key_topics": [
+        "vascular access",
+        "analgesia",
+        "sedation",
+        "respiratory support"
+      ],
+      "summary": "Describes common ED procedures in paediatric patients, including sedation and analgesia.",
+      "tags": ["procedures", "sedation", "analgesia"]
+    }
+  ]
+}
