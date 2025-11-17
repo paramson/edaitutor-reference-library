@@ -1,0 +1,19 @@
+{
+  "title": "ACI ECI Hand Injuries: Emergency Department Guideline",
+  "source": "Emergency Care Institute (NSW)",
+  "year": 2022,
+  "category": "orthopaedics_hand",
+  "summary": "Emergency care guideline for common hand injuries including tendon injuries, fractures, dislocations, lacerations, neurovascular compromise, and infections. Includes clinical assessment steps and referral criteria.",
+  "sections": [
+    "Hand assessment",
+    "Tendon injuries",
+    "Ligament and joint injuries",
+    "Metacarpal and phalangeal fractures",
+    "Dislocations",
+    "Wound management",
+    "Infections",
+    "Neurovascular compromise",
+    "Referral indications"
+  ],
+  "file": "ACI-ECI-Hand-injuries-guidelines.pdf"
+}
