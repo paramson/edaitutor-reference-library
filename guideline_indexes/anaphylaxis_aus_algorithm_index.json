@@ -1,0 +1,60 @@
+{
+  "guideline_name": "Anaphylaxis Flowchart (2024)",
+  "short_name": "Anaphylaxis AUS",
+  "region": "Australia",
+  "topic": "Allergy / Anaphylaxis",
+  "type": "guideline",
+  "source": "Australian anaphylaxis emergency flowchart",
+  "url": "N/A (uploaded PDF in ED AI Tutor reference library)",
+  "when_to_use": "Any patient with suspected anaphylaxis presenting with airway compromise, breathing difficulty, shock, or rapidly progressing systemic symptoms.",
+  "key_sections": [
+    {
+      "id": "ana_01",
+      "section_title": "Recognition of Anaphylaxis",
+      "summary": "Assess for airway obstruction (stridor/oral swelling), breathing difficulty (wheeze, respiratory distress), or shock (pale, clammy, hypotension). Skin changes such as urticaria or erythema support diagnosis but are not required.",
+      "tags": ["airway swelling", "wheeze", "shock", "urticaria"]
+    },
+    {
+      "id": "ana_02",
+      "section_title": "First-Line Management",
+      "summary": "Administer IM adrenaline immediately into the upper outer thigh. Adult dose: 0.5 mg (0.5 mL of 1:1000). Children: 10 mcg/kg (0.01 mL/kg of 1:1000), min dose 0.1 mL, max dose 0.5 mL. Repeat every 5 minutes as required.",
+      "tags": ["IM adrenaline", "dose", "repeat dosing"]
+    },
+    {
+      "id": "ana_03",
+      "section_title": "Initial Stabilisation",
+      "summary": "Apply high-flow oxygen, monitor ECG, SpO2, BP. Remove the trigger if known. Position the patient flat or sitting, and avoid walking or standing to prevent cardiovascular collapse.",
+      "tags": ["oxygen", "positioning", "monitoring"]
+    },
+    {
+      "id": "ana_04",
+      "section_title": "IV Access and Fluids",
+      "summary": "Obtain IV access. For shock: give rapid 0.9% sodium chloride. Adults: 1000 mL bolus. Children: 10 mL/kg bolus.",
+      "tags": ["IV fluids", "shock treatment"]
+    },
+    {
+      "id": "ana_05",
+      "section_title": "Adjunctive Therapies",
+      "summary": "Consider steroids for refractory shock or bronchospasm and antihistamines for urticaria or angioedema once stabilised.",
+      "tags": ["steroids", "antihistamines", "bronchospasm"]
+    },
+    {
+      "id": "ana_06",
+      "section_title": "Refractory Anaphylaxis",
+      "summary": "If no improvement after two appropriate doses of IM adrenaline, escalate: consider adrenaline infusion, nebulised adrenaline for upper airway obstruction, nebulised salbutamol for bronchospasm, and additional IV fluids.",
+      "tags": ["refractory", "adrenaline infusion", "nebulised adrenaline"]
+    },
+    {
+      "id": "ana_07",
+      "section_title": "Observation and Disposition",
+      "summary": "Monitor for at least 4 hours post-resolution. Reassess airway, breathing, and circulation continuously. Arrange specialist review and consider transfer to critical care setting.",
+      "tags": ["observation", "critical care", "monitoring"]
+    },
+    {
+      "id": "ana_08",
+      "section_title": "Cardiac Arrest Branch",
+      "summary": "If cardiac arrest occurs, immediately follow ALS algorithm.",
+      "tags": ["cardiac arrest", "ALS", "resuscitation"]
+    }
+  ]
+}
