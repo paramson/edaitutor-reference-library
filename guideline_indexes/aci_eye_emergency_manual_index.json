@@ -1,0 +1,19 @@
+{
+  "title": "ACI Eye Emergency Manual",
+  "source": "Agency for Clinical Innovation (NSW)",
+  "year": 2023,
+  "category": "ophthalmology",
+  "summary": "Comprehensive guide for assessment and management of acute eye presentations in the emergency department. Covers red flags, ocular trauma, chemical injuries, acute glaucoma, visual loss, and paediatric eye emergencies.",
+  "sections": [
+    "Eye assessment",
+    "Ocular trauma",
+    "Chemical injuries",
+    "Acute glaucoma",
+    "Corneal conditions",
+    "Painful red eye",
+    "Visual loss assessment",
+    "Paediatric eye emergencies",
+    "Disposition and referral"
+  ],
+  "file": "ACI-Eye-Emergency-Manual.pdf"
+}
