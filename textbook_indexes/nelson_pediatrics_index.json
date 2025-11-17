@@ -1,0 +1,65 @@
+{
+  "title": "Nelson Textbook of Pediatrics",
+  "short_name": "Nelson Paediatrics",
+  "edition": "22nd",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Foundational paediatric reference for ED AI Tutor, used for authoritative clinical reasoning and paediatric differentials.",
+  "chapters": [
+    {
+      "id": "nel_01",
+      "chapter_title": "Growth and Development",
+      "key_topics": [
+        "growth patterns",
+        "developmental milestones",
+        "failure to thrive"
+      ],
+      "summary": "Outlines normal and abnormal growth and development patterns.",
+      "tags": ["growth", "development"]
+    },
+    {
+      "id": "nel_02",
+      "chapter_title": "Respiratory Disorders",
+      "key_topics": [
+        "asthma",
+        "croup",
+        "bronchiolitis",
+        "pneumonia"
+      ],
+      "summary": "Summarises common paediatric respiratory diseases and management.",
+      "tags": ["respiratory", "asthma"]
+    },
+    {
+      "id": "nel_03",
+      "chapter_title": "Gastrointestinal Disorders",
+      "key_topics": [
+        "vomiting",
+        "diarrhoea",
+        "malabsorption"
+      ],
+      "summary": "Covers major GI diseases in children and ED implications.",
+      "tags": ["gastrointestinal", "GI"]
+    },
+    {
+      "id": "nel_04",
+      "chapter_title": "Neurological Disorders",
+      "key_topics": [
+        "seizures",
+        "neuromuscular weakness",
+        "CNS infection"
+      ],
+      "summary": "Provides insights into neurological disease presentations in children.",
+      "tags": ["neurology", "seizures"]
+    },
+    {
+      "id": "nel_05",
+      "chapter_title": "Infectious Diseases",
+      "key_topics": [
+        "viral infections",
+        "bacterial infections",
+        "immunisation-preventable disease"
+      ],
+      "summary": "Overview of common paediatric infectious diseases.",
+      "tags": ["infection", "immunisation"]
+    }
+  ]
+}
