@@ -6,37 +6,83 @@
   "resources": {
     "adult_resuscitation": {
       "description": "ANZCOR, ALS, dysrhythmias, shock, airway",
-      "files": []
+      "files": [
+    "https://www.anzcor.org/home/adult-advanced-life-support/",
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/clinical+resources/advanced+life+support+adult",
+    "https://litfl.com/als-algorithm/",
+    "https://emcrit.org/ibcc/als/",
+    "https://www.blood.gov.au/patient-blood-management-guideline-adults-critical-bleeding#guideline"
+]
     },
     "paediatric_resuscitation": {
       "description": "Paediatric ALS, shock, asthma, arrest",
-      "files": []
+      "files": [
+"https://www.anzcor.org/home/neonatal-resuscitation/",       
+"https://www.rch.org.au/clinicalguide/guideline_index/Resuscitation/",
+"https://www.starship.org.nz/guidelines/",
+"https://dontforgetthebubbles.com/resuscitation/"
+]
     },
     "paediatrics_general": {
       "description": "General paediatrics guidelines and pathways",
-      "files": ["https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/",
+      "files": [
+"https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/",       
 "https://www.rch.org.au/clinicalguide/",
+"https://dontforgetthebubbles.com/category/clinical/"
 "https://starship.org.nz/guidelines/"
 ]
     },
     "toxicology": {
       "description": "Toxicology algorithms and antidotes",
-      "files": ["https://www.toxinz.com/",
+      "files": [
+"https://www.toxinz.com/",       
 "https://litfl.com/toxicology-library/",
-"https://www.austin.org.au/txic/"
+"https://www.austin.org.au/txic/",
+"https://emcrit.org/ibcc/toxicology/",
+"https://www.ontariopoisoncentre.ca/",
+"https://www.nswtag.org.au/high-risk-medicines/",
+"https://www.rch.org.au/clinicalguide/guideline_index/Toxicology/",
+"https://first10em.com/toxicology/",
+"https://www.tamingthesru.com/blog/category/toxicology",
+"https://www.ncbi.nlm.nih.gov/books/NBK430743/"
 ]
     },
     "airway_management": {
       "description": "Airway algorithms, RSI guides, oxygenation strategies",
-      "files": ["https://www.vortexapproach.org/",
+      "files": [
+"https://www.vortexapproach.org/",       
 "https://www.amax4.org/",
 "https://airwayninja.org/",
-"https://emcrit.org/ibcc/airway/"
+"https://emcrit.org/ibcc/airway/",
+"https://litfl.com/rsi/",
+"https://www.das.uk.com/guidelines/",
+"https://www.emra.org/emresident/article/airway-pearls/",
+"https://first10em.com/airway/"
 ]
     },
     "cardiology": {
       "description": "ACS, arrhythmias, ECG frameworks",
-      "files": []
+      "files": [
+    "https://www.anzcor.org/home/adult-advanced-life-support/guideline-11-9-managing-acute-dysrhythmias",
+    "https://www.anzcor.org/home/adult-advanced-life-support/guideline-14-1-acute-coronary-syndromes",
+    "https://aci.health.nsw.gov.au/resources/cardiovascular",
+    "https://aci.health.nsw.gov.au/networks/eci/clinical/chest-pain",
+    "https://www.heartfoundation.org.au/conditions/acute-coronary-syndromes",
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/clinical+resources/clinical+programs+and+practice+guidelines/cardiology-guidelines",
+    "https://www.rch.org.au/clinicalguide/guideline_index/Cardiology/",
+    "https://www.starship.org.nz/guidelines/",
+    "https://litfl.com/ecg-library/",
+    "https://litfl.com/tachycardia/",
+    "https://litfl.com/bradycardia/",
+    "https://emcrit.org/ibcc/acs/",
+    "https://emcrit.org/ibcc/arrhythmias/",
+    "https://emcrit.org/ibcc/pericarditis/",
+    "https://emcrit.org/ibcc/heart-failure/",
+    "https://first10em.com/cardiology/",
+    "https://www.tamingthesru.com/blog/category/cardiology",
+    "https://www.ecgweekly.com/",
+    "https://www.escardio.org/Guidelines"
+]
     },
     "guideline_indexes": {
   "description": "Clinical guideline indexes used by ED AI Tutor for resuscitation, arrhythmias, paediatrics, neonatal care, and anaphylaxis.",
@@ -52,27 +98,72 @@
 
     "neurology": {
       "description": "Stroke, seizures, meningitis, SAH",
-      "files": ["https://www.edguidelines.com/the-hints-exam-masterclass-how-to-understand-and-perform-perfectly/",
-"https://www.edguidelines.com/approach-to-dizziness-vertigo-based-on-the-grace-3-guidelines/",
-"https://www.edguidelines.com/status-epilepticus-medication-management/"
+      "files": [
+    "https://www.stroke.org.au/health-professionals/clinical-guidelines",
+    "https://www.heartandstroke.ca/healthcare-professionals/professional-resources/stroke-best-practices",
+    "https://www.ahajournals.org/doi/10.1161/STR.0000000000000375",
+    "https://www.nice.org.uk/guidance/cg176",  // Head injury: assessment and early management
+    "https://www.rch.org.au/clinicalguide/guideline_index/Neurology/",
+    "https://www.starship.org.nz/guidelines/",
+    "https://www.edguidelines.com/the-hints-exam-masterclass-how-to-understand-and-perform-perfectly/",
+    "https://www.edguidelines.com/approach-to-dizziness-vertigo-based-on-the-grace-3-guidelines/",
+    "https://www.edguidelines.com/status-epilepticus-medication-management/",
+    "https://emcrit.org/ibcc/ich/",
+    "https://emcrit.org/ibcc/sah/",
+    "https://emcrit.org/ibcc/ischemic-stroke/",
+    "https://first10em.com/headache-and-sah/",
+    "https://first10em.com/stroke/",
+    "https://www.tamingthesru.com/blog/category/neurology"
 ]
     },
     "orthopaedics": {
       "description": "Fracture management, reductions, splints",
-      "files": []
+      "files": [
+    "https://aci.health.nsw.gov.au/networks/eci/clinical/orthopaedic-and-musculoskeletal",
+    "https://aci.health.nsw.gov.au/resources/orthopaedics",
+    "https://healthywa.health.wa.gov.au/Articles/A_E/Emergency-department-orthopaedic-guidelines",
+    "https://www.rch.org.au/clinicalguide/guideline_index/Trauma/",
+    "https://www.rch.org.au/clinicalguide/guideline_index/Musculoskeletal/",
+    "https://starship.org.nz/guidelines/",
+    "https://orthobullets.com/",
+    "https://www.tamingthesru.com/blog/category/orthopedics",
+    "https://emergencymedicinecases.com/episode-52-orthopedic-emergencies/",
+    "https://first10em.com/ortho/",
+    "https://dislocation.com.au/",
+    "https://www.physio-pedia.com/Emergency_Orthopaedic_Management",
+    "https://litfl.com/orthopaedic-emergencies/",
+    "https://www.edguidelines.com/hip-dislocation-approach-during-sedation/",
+    "https://www.edguidelines.com/shoulder-dislocation-reduction-techniques/",
+    "https://www.edguidelines.com/ankle-injury-ottawa-rules-imaging-guidance/",
+    "https://www.edguidelines.com/wrist-injury-imaging-and-management-strategies/"
+]
     },
     "trauma": {
       "description": "ATLS, trauma surveys, imaging pathways",
-      "files": ["https://trauma.reach.vic.gov.au/guidelines/pre-hospital-triage/key-messages/",
+      "files": [
+"https://trauma.reach.vic.gov.au/guidelines/pre-hospital-triage/key-messages/",       
 "https://aci.health.nsw.gov.au/networks/eci/clinical/tools/trauma",
 "https://aci.health.nsw.gov.au/networks/eci/clinical/tools/orthopaedic-and-musculoskeletal"
 ]
     },
     "imaging_guides": {
       "description": "X-ray frameworks, CT decision rules, ultrasound",
-      "files": ["https://www.rcr.ac.uk/.../emergency-computed-tomography-scans-contrast-agents/",
-"https://www.radiologyacrossborders.org/diagnostic_imaging_pathways/",
-"https://www.edguidelines.com/simplified-cervical-spine-imaging-pathway/"
+      "files": [
+"https://www.radiologyacrossborders.org/diagnostic_imaging_pathways/",       
+"https://www.edguidelines.com/simplified-cervical-spine-imaging-pathway/",
+"https://acsearch.acr.org/list",
+"https://www.rch.org.au/clinicalguide/guideline_index/Imaging/",
+"https://www.starship.org.nz/guidelines/",
+"https://litfl.com/ct-head-decision-rule/",
+"https://litfl.com/cervical-spine-clearance-in-trauma/",
+"https://radiopaedia.org/articles/trauma-cervical-spine-clearance",
+"https://first10em.com/head-ct-rules/",
+"https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/clinical+resources/clinical+programs+and+practice+guidelines/imaging/ct-contrast-guidelines",
+"https://highlandultrasound.com/",
+"https://www.emcrit.org/ibcc/ultrasound/",
+"https://www.acep.org/sonoguide",
+"https://edguidelines.com/trauma-imaging/",
+"https://edguidelines.com/pediatric-head-injury-imaging-based-on-nice/"
 ]
     },
     "clinical_cases": {
@@ -81,7 +172,29 @@
     },
     "exam_resources": {
       "description": "ACEM/RCEM blueprints, MCQ and viva frameworks",
-      "files": []
+      "files": [
+    "https://www.edvivas.com/",
+    "https://litfl.com/bscc/",
+    "https://www.erexam.org/",
+    "https://canadiem.org/crackcast/",
+    "https://coreem.net/podcast/",
+    "https://www.rcemlearning.co.uk/",
+    "https://litfl.com/podcasts/mastering-intensive-care/",
+    "https://www.emlitofnote.com/",
+    "https://entsho.com/",
+    "https://www.acem.org.au/Content-Sources/Training/Exams",
+    "https://emergencymedicinecases.com/epic/",
+    "https://first10em.com/category/exam/",
+    "https://emcrit.org/category/emnerd/",
+    "https://www.tamingthesru.com/blog?category=Education",
+    "https://rebelem.com/category/core-content/",
+    "https://www.aliem.com/aliemu/",
+    "https://www.aliem.com/clinical-em/",
+    "https://foamcast.org/",
+    "https://anchor.fm/emboardbombs",
+    "https://www.stemlynsblog.org/category/exam/",
+    "https://www.saem.org/about-saem/academies/academies/simulation-academy/resources"
+]
     },
     "textbook_indexes": {
       "description": "Chapter maps for Tintinalli, Rosen's, Cameron, Nelson",
@@ -128,18 +241,60 @@
     },
     "pharmacology": {
       "description": "Drug monographs, dosing, sedation, infusions",
-      "files": []
+      "files": [
+    "https://www.tga.gov.au/products/medicines",
+    "https://www.nps.org.au/medicine-finder",
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/clinical+resources/immunisation+and+medication/medications+and+prescribing",
+    "https://www.health.nsw.gov.au/pharmaceutical/Pages/default.aspx",
+    "https://www.pbs.gov.au/pbs/home",
+    "https://www.rch.org.au/clinicalguide/guideline_index/Paediatric_Medications/",
+    "https://www.rch.org.au/clinicalguide/guideline_index/Medication_Administration/",
+    'https://www.starship.org.nz/guidelines/paediatric-drug-doses',
+    "https://www.cahs.health.wa.gov.au/~/media/HSPs/CAHS/Documents/Health-Professionals/Clinical-Practice-Guidelines/Paediatric-Medication-Dosing-Guide.pdf",
+    "https://www.austin.org.au/txic/antidotes/", 
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/clinical+resources/high+risk+medicines",
+    "https://www.edguidelines.com/analgesia-in-the-emergency-department/",
+    "https://www.edguidelines.com/sedation-and-medication-safety/",
+    "https://emcrit.org/ibcc/drugs/",
+    "https://litfl.com/critical-care-drug-doses/",
+    "https://first10em.com/drugs/",
+    "https://www.tamingthesru.com/blog/category/pharmacology",
+    "https://www.mdcalc.com/",
+    "https://clincalc.com/DrugStats/"
+]
     },
     "procedures": {
       "description": "Airway, chest, lines, sedation, ultrasound procedures",
-      "files": ["https://app.emergencyprocedures.org/onboarding",
+      "files": [
+"https://app.emergencyprocedures.org/onboarding",       
 "https://www.edguidelines.com/approach-to-procedural-sedation/",
 "https://www.edguidelines.com/stepwise-approach-to-apnoea-during-procedural-sedation/"
 ]
     },
     "systems_guidelines": {
-      "description": "Respiratory, cardiovascular, renal, GI, endocrine, infectious diseases",
-      "files": []
+      "description": "Triage systems, early warning, sepsis, mental health, ED-wide pathways",
+      "files": [
+    "https://www.health.gov.au/resources/publications/australasian-triage-scale-ats",
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/clinical+resources/clinical+programs+and+practice+guidelines/severe+sepsis+and+septic+shock",
+    "https://aci.health.nsw.gov.au/networks/sepsis/resources",
+    "https://www1.health.nsw.gov.au/pds/ActivePDSDocuments/PD2020_047.pdf",
+    "https://clinicalexcellence.qld.gov.au/priority-areas/sepsis",
+    "https://clinicalexcellence.qld.gov.au/priority-areas/end-of-life-care/icare-eolc",
+    "https://www.health.vic.gov.au/publications/victorian-sepsis-clinical-guidelines",
+    "https://www.health.vic.gov.au/sites/default/files/migrated/files/collections/policies-and-guidelines/mh-guidelines/mental-health-triage-tool.pdf",
+    "https://www.nhmrc.gov.au/immunisation-handbook",
+    "https://immunisationhandbook.health.gov.au/",
+    "https://www.rch.org.au/uploadedFiles/Main/Content/clinicalguide/Global/RCH_Escalation_System.pdf",
+    "https://www.rch.org.au/clinicalguide/guideline_index/Early_Warning_Systems/",
+    "https://www.starship.org.nz/guidelines/patient-deterioration/",
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/clinical+resources/infection+control",
+    "https://www.health.govt.nz/publication/infection-prevention-and-control-guidelines",
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/medication-safety/high-risk-medicines",
+    "https://aci.health.nsw.gov.au/resources/trauma",
+    "https://www.health.gov.au/resources/publications/national-acute-critical-care-guidelines",
+    "https://www.qld.gov.au/health/services/allied/inpatient/ward-observation-unit",
+    "https://aci.health.nsw.gov.au/networks/eci/clinical/supporting-tools"
+]
     }
   }
 }
