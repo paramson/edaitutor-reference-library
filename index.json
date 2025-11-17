@@ -54,7 +54,11 @@
     },
     "textbook_indexes": {
       "description": "Chapter maps for Tintinalli, Rosen's, Cameron, Nelson",
-      "files": []
+      "files": ["https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/tintinalli_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/rosens_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/cameron_adult_em_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/clinical_procedures_ed_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/textbook_indexes/airway_manual_index.json"]
     },
     "foamed_resources": {
       "description": "LITFL, EMCRIT, EM Cases, DFTB summaries",
