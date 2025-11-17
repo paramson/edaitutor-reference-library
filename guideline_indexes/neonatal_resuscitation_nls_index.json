@@ -1,0 +1,42 @@
+{
+  "guideline_name": "Newborn Life Support (NLS) – Neonatal Resuscitation",
+  "short_name": "NLS Neonatal Resus",
+  "region": "Australia & New Zealand",
+  "topic": "Resuscitation – Neonatal",
+  "type": "guideline",
+  "source": "Newborn Life Support guidance (7th edition style)",
+  "url": "N/A (local copy in ED AI Tutor reference library)",
+  "when_to_use": "Newborns at birth or shortly after with poor tone, ineffective breathing, or bradycardia requiring resuscitation.",
+  "key_sections": [
+    {
+      "id": "nls_01",
+      "section_title": "Initial Assessment at Birth",
+      "summary": "Assess tone, breathing, and heart rate. If term, good tone, and breathing/crying, provide routine care; otherwise, move to resuscitaire, provide warmth, and start initial steps.",
+      "tags": ["initial assessment", "APGAR", "tone", "breathing"]
+    },
+    {
+      "id": "nls_02",
+      "section_title": "Initial Stabilisation Steps",
+      "summary": "Provide warmth, position airway, clear secretions only if obstructed, dry and stimulate. Reassess heart rate and breathing frequently.",
+      "tags": ["warmth", "airway position", "stimulation"]
+    },
+    {
+      "id": "nls_03",
+      "section_title": "Positive Pressure Ventilation",
+      "summary": "If heart rate <100 bpm or inadequate breathing, start positive pressure ventilation with appropriately sized mask, aiming for visible chest rise and using room air or blended oxygen per local protocol.",
+      "tags": ["PPV", "ventilation", "HR <100"]
+    },
+    {
+      "id": "nls_04",
+      "section_title": "Chest Compressions",
+      "summary": "If heart rate remains <60 bpm despite adequate ventilation, start chest compressions at 3:1 compression-to-ventilation ratio while continuing PPV.",
+      "tags": ["compressions", "3:1", "HR <60"]
+    },
+    {
+      "id": "nls_05",
+      "section_title": "Medications and Ongoing Care",
+      "summary": "For persistent bradycardia despite effective ventilation and compressions, consider adrenaline via umbilical venous access, correct hypovolaemia, and arrange ongoing neonatal intensive care.",
+      "tags": ["adrenaline", "UVC", "NICU"]
+    }
+  ]
+}
