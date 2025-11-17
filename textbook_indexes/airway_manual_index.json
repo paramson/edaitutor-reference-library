@@ -1,0 +1,97 @@
+{
+  "title": "Manual of Emergency Airway Management",
+  "short_name": "Airway Manual",
+  "edition": "4th",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Dedicated airway reference for airway assessment, difficult airway strategies, RSI, and rescue techniques.",
+  "chapters": [
+    {
+      "id": "air_01",
+      "chapter_title": "Airway Assessment and Risk Prediction",
+      "key_topics": [
+        "airway anatomy",
+        "difficult airway prediction",
+        "physiologic risk factors",
+        "preoxygenation strategies"
+      ],
+      "summary": "Covers structured airway assessment and prediction of difficulty, including both anatomic and physiologic risk factors for failed or high-risk intubation.",
+      "tags": ["airway", "assessment", "difficult airway"]
+    },
+    {
+      "id": "air_02",
+      "chapter_title": "Fundamentals of Oxygenation and Ventilation",
+      "key_topics": [
+        "oxygenation",
+        "ventilation",
+        "bag-mask technique",
+        "non-invasive ventilation",
+        "apnoeic oxygenation"
+      ],
+      "summary": "Explains core principles of oxygenation and ventilation that underpin safe emergency airway management.",
+      "tags": ["oxygenation", "ventilation", "bag-mask", "niv"]
+    },
+    {
+      "id": "air_03",
+      "chapter_title": "Rapid Sequence Intubation (RSI)",
+      "key_topics": [
+        "indications",
+        "preparation (7 Ps style frameworks OK)",
+        "drug selection",
+        "intubation sequence",
+        "post-intubation management"
+      ],
+      "summary": "Describes the full process of RSI, including preparation, choice of induction and paralytic agents, intubation technique, and immediate post-intubation care.",
+      "tags": ["rsi", "intubation", "sedation", "paralysis"]
+    },
+    {
+      "id": "air_04",
+      "chapter_title": "Management of the Difficult Airway",
+      "key_topics": [
+        "failed laryngoscopy",
+        "bougie and adjuncts",
+        "video laryngoscopy",
+        "awake techniques",
+        "decision algorithms"
+      ],
+      "summary": "Outlines strategies for anticipated and unanticipated difficult airways, including escalation pathways and device selection.",
+      "tags": ["difficult airway", "video laryngoscopy", "awake intubation"]
+    },
+    {
+      "id": "air_05",
+      "chapter_title": "Surgical and Rescue Airway Techniques",
+      "key_topics": [
+        "cricothyrotomy",
+        "surgical airway",
+        "front-of-neck access",
+        "can’t intubate can’t oxygenate"
+      ],
+      "summary": "Focuses on rescue airway procedures, especially surgical approaches, for can’t-intubate-can’t-oxygenate scenarios.",
+      "tags": ["surgical airway", "cricothyrotomy", "cico"]
+    },
+    {
+      "id": "air_06",
+      "chapter_title": "Paediatric Airway Management",
+      "key_topics": [
+        "paediatric airway anatomy",
+        "age-based equipment",
+        "paediatric RSI",
+        "non-invasive approaches"
+      ],
+      "summary": "Summarises differences in paediatric airway management and provides paediatric-specific strategies for airway interventions.",
+      "tags": ["paediatrics", "paeds airway", "paeds rsi"]
+    },
+    {
+      "id": "air_07",
+      "chapter_title": "Airway Management in Special Situations",
+      "key_topics": [
+        "trauma airway",
+        "pregnancy",
+        "obesity",
+        "shock",
+        "cardiac arrest"
+      ],
+      "summary": "Covers airway management adaptation in trauma, pregnancy, obesity, haemodynamic instability, and cardiac arrest.",
+      "tags": ["trauma", "obstetrics", "obesity", "shock"]
+    }
+  ]
+}
