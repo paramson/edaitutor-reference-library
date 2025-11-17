@@ -28,6 +28,18 @@
       "description": "ACS, arrhythmias, ECG frameworks",
       "files": []
     },
+    "guideline_indexes": {
+  "description": "Clinical guideline indexes used by ED AI Tutor for resuscitation, arrhythmias, paediatrics, neonatal care, and anaphylaxis.",
+  "files": [
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/anaphylaxis_aus_algorithm_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/anzcor_als_adult_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/anzcor_pals_paediatric_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/paediatric_svt_algorithm_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/adult_brady_tachy_algorithm_index.json",
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/neonatal_resuscitation_nls_index.json"
+  ]
+}
+
     "neurology": {
       "description": "Stroke, seizures, meningitis, SAH",
       "files": []
