@@ -1,0 +1,56 @@
+{
+  "title": "Dermatological Emergencies",
+  "short_name": "Derm Emergencies",
+  "edition": "1st",
+  "type": "textbook_index",
+  "role_in_edaitutor": "High-acuity dermatological reference for ED settings including rashes, blistering disorders, infections, and drug reactions.",
+  "chapters": [
+    {
+      "id": "derm_01",
+      "chapter_title": "Emergency Dermatological Assessment",
+      "key_topics": [
+        "rash morphology",
+        "distribution patterns",
+        "toxic vs benign",
+        "systemic features"
+      ],
+      "summary": "Covers structured dermatological assessment with focus on dangerous rashes.",
+      "tags": ["rash", "dermatology", "assessment"]
+    },
+    {
+      "id": "derm_02",
+      "chapter_title": "Infectious Dermatology",
+      "key_topics": [
+        "cellulitis",
+        "impetigo",
+        "Herpes zoster",
+        "fungal infection"
+      ],
+      "summary": "Summarises recognition of common dermatological infections presenting to the ED.",
+      "tags": ["infection", "SSTI"]
+    },
+    {
+      "id": "derm_03",
+      "chapter_title": "Severe Cutaneous Drug Reactions",
+      "key_topics": [
+        "SJS",
+        "TEN",
+        "DRESS",
+        "drug-induced rash"
+      ],
+      "summary": "Provides structured approach to severe cutaneous drug reactions.",
+      "tags": ["SJS", "TEN", "DRESS"]
+    },
+    {
+      "id": "derm_04",
+      "chapter_title": "Blistering and Autoimmune Disorders",
+      "key_topics": [
+        "pemphigus",
+        "bullous pemphigoid",
+        "toxic erythema"
+      ],
+      "summary": "Describes assessment of blistering autoimmune conditions in the acute setting.",
+      "tags": ["blistering", "autoimmune"]
+    }
+  ]
+}
