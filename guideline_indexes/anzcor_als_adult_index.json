@@ -1,0 +1,42 @@
+{
+  "guideline_name": "ANZCOR Adult Advanced Life Support",
+  "short_name": "ANZCOR ALS (Adult)",
+  "region": "Australia & New Zealand",
+  "topic": "Resuscitation – Adult",
+  "type": "guideline",
+  "source": "ANZCOR Adult Advanced Life Support algorithms",
+  "url": "N/A (local copy in ED AI Tutor reference library)",
+  "when_to_use": "Any adult patient in cardiac arrest or peri-arrest state where ALS algorithms are required.",
+  "key_sections": [
+    {
+      "id": "als_ad_01",
+      "section_title": "Recognition of Cardiac Arrest and Initial Actions",
+      "summary": "Check responsiveness, breathing, and pulse. If no signs of life or abnormal breathing, call for help, start high-quality CPR, and attach defibrillator/monitor.",
+      "tags": ["recognition", "CPR", "initial actions"]
+    },
+    {
+      "id": "als_ad_02",
+      "section_title": "Shockable Rhythm Pathway (VF/VT)",
+      "summary": "Deliver a shock as soon as possible for VF/pulseless VT, resume CPR immediately, give adrenaline after the second shock, and consider amiodarone after the third shock.",
+      "tags": ["VF", "VT", "defibrillation", "adrenaline", "amiodarone"]
+    },
+    {
+      "id": "als_ad_03",
+      "section_title": "Non-shockable Rhythm Pathway (PEA/Asystole)",
+      "summary": "For PEA/asystole, focus on high-quality CPR, early adrenaline, and rapid search for reversible causes.",
+      "tags": ["PEA", "asystole", "adrenaline", "4 Hs 4 Ts"]
+    },
+    {
+      "id": "als_ad_04",
+      "section_title": "Reversible Causes",
+      "summary": "Systematic review of 4 Hs and 4 Ts (hypoxia, hypovolaemia, hypo/hyperkalaemia, hypothermia, tension pneumothorax, tamponade, toxins, thrombosis).",
+      "tags": ["reversible causes", "4 Hs 4 Ts"]
+    },
+    {
+      "id": "als_ad_05",
+      "section_title": "Post-ROSC Care",
+      "summary": "After ROSC, optimise oxygenation and ventilation, treat hypotension, consider targeted temperature management, and arrange appropriate critical care disposition.",
+      "tags": ["ROSC", "post-arrest", "critical care"]
+    }
+  ]
+}
