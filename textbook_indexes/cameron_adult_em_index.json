@@ -1,0 +1,151 @@
+{
+  "title": "Textbook of Adult Emergency Medicine",
+  "short_name": "Cameron Adult EM",
+  "edition": "5th",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Clinical, pragmatic adult EM reference with strong Australasian influence, used for region-appropriate management suggestions.",
+  "chapters": [
+    {
+      "id": "cam_01",
+      "chapter_title": "Assessment and Risk Stratification in the ED",
+      "key_topics": [
+        "triage",
+        "initial assessment",
+        "risk tools",
+        "observation medicine",
+        "short stay units"
+      ],
+      "summary": "Provides a clinically focused framework for assessing adults in the ED, including disposition and risk stratification tools relevant to Australasian practice.",
+      "tags": ["assessment", "risk stratification", "observation"]
+    },
+    {
+      "id": "cam_02",
+      "chapter_title": "Cardiovascular Disorders",
+      "key_topics": [
+        "chest pain pathways",
+        "ACS management",
+        "heart failure",
+        "syncope",
+        "arrhythmias"
+      ],
+      "summary": "Discusses ED diagnosis and management of chest pain and other cardiovascular presentations, with practical pathways and disposition criteria.",
+      "tags": ["cardiology", "acs", "syncope", "heart failure"]
+    },
+    {
+      "id": "cam_03",
+      "chapter_title": "Respiratory Disorders",
+      "key_topics": [
+        "acute dyspnoea",
+        "asthma",
+        "COPD",
+        "pneumonia",
+        "pleural disease"
+      ],
+      "summary": "Covers common adult respiratory emergencies and emphasises practical ED management strategies and disposition decisions.",
+      "tags": ["respiratory", "asthma", "copd", "pneumonia"]
+    },
+    {
+      "id": "cam_04",
+      "chapter_title": "Neurologic and Psychiatric Emergencies",
+      "key_topics": [
+        "headache",
+        "stroke",
+        "seizures",
+        "delirium",
+        "acute behavioural disturbance"
+      ],
+      "summary": "Focuses on adult neurological and psychiatric presentations, including ED evaluation and safe management of behavioural emergencies.",
+      "tags": ["neurology", "psychiatry", "headache", "abd"]
+    },
+    {
+      "id": "cam_05",
+      "chapter_title": "Abdominal and Genitourinary Emergencies",
+      "key_topics": [
+        "abdominal pain",
+        "GI bleed",
+        "renal colic",
+        "urinary retention",
+        "scrotal pain"
+      ],
+      "summary": "Addresses common abdominal and GU complaints, including red flag features and ED imaging and consultation thresholds.",
+      "tags": ["gastrointestinal", "abdominal pain", "renal", "gu"]
+    },
+    {
+      "id": "cam_06",
+      "chapter_title": "Infectious Diseases",
+      "key_topics": [
+        "sepsis bundles",
+        "pneumonia",
+        "cellulitis",
+        "meningitis",
+        "travel infections"
+      ],
+      "summary": "Provides pragmatic guidance on infectious disease presentations, empiric therapy, and admission versus discharge decisions.",
+      "tags": ["infectious diseases", "sepsis", "cellulitis", "meningitis"]
+    },
+    {
+      "id": "cam_07",
+      "chapter_title": "Trauma in Adults",
+      "key_topics": [
+        "primary survey",
+        "secondary survey",
+        "blunt trauma",
+        "penetrating trauma",
+        "trauma imaging"
+      ],
+      "summary": "Summarises trauma assessment and early management in the ED, aligned with ATLS concepts and local trauma systems.",
+      "tags": ["trauma", "primary survey", "imaging"]
+    },
+    {
+      "id": "cam_08",
+      "chapter_title": "Musculoskeletal and Soft Tissue Disorders",
+      "key_topics": [
+        "sprains and strains",
+        "fractures",
+        "dislocations",
+        "back pain",
+        "soft tissue infection"
+      ],
+      "summary": "Covers practical management of musculoskeletal injuries and soft tissue conditions seen commonly in adult emergency practice.",
+      "tags": ["orthopaedics", "msk", "ssti", "back pain"]
+    },
+    {
+      "id": "cam_09",
+      "chapter_title": "Toxicology and Substance Use",
+      "key_topics": [
+        "poisoned patient",
+        "alcohol-related presentations",
+        "illicit drugs",
+        "prescription overdose",
+        "withdrawal states"
+      ],
+      "summary": "Provides adult-focused toxicology and substance use guidance suitable for real-world ED practice.",
+      "tags": ["toxicology", "substance use", "overdose", "withdrawal"]
+    },
+    {
+      "id": "cam_10",
+      "chapter_title": "Endocrine and Metabolic Emergencies",
+      "key_topics": [
+        "DKA",
+        "HHS",
+        "thyroid emergencies",
+        "electrolyte disorders",
+        "adrenal crisis"
+      ],
+      "summary": "Summarises adult endocrine and metabolic emergencies, with emphasis on practical ED stabilisation and monitoring.",
+      "tags": ["endocrine", "metabolic", "dka", "electrolytes"]
+    },
+    {
+      "id": "cam_11",
+      "chapter_title": "Special Populations",
+      "key_topics": [
+        "older people",
+        "pregnancy",
+        "immunocompromised adults",
+        "patients with disability"
+      ],
+      "summary": "Highlights adult emergency care considerations in special populations and vulnerable groups.",
+      "tags": ["elderly", "obstetrics", "immunocompromised", "special populations"]
+    }
+  ]
+}
