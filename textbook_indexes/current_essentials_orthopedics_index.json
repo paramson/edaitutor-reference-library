@@ -1,0 +1,55 @@
+{
+  "title": "Current Essentials Orthopedics",
+  "short_name": "Current Ortho",
+  "edition": "1st",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Concise orthopaedic reference summarising diagnosis, imaging, and management of common MSK conditions.",
+  "chapters": [
+    {
+      "id": "ceo_01",
+      "chapter_title": "General MSK Assessment",
+      "key_topics": [
+        "MSK exam",
+        "neurovascular assessment",
+        "soft tissue injuries"
+      ],
+      "summary": "Outlines core principles of musculoskeletal examination and evaluation.",
+      "tags": ["MSK", "assessment"]
+    },
+    {
+      "id": "ceo_02",
+      "chapter_title": "Shoulder and Upper Limb",
+      "key_topics": [
+        "rotator cuff",
+        "shoulder dislocation",
+        "elbow injuries",
+        "wrist pain"
+      ],
+      "summary": "Summarises common upper limb injuries and imaging pathways.",
+      "tags": ["upper limb", "shoulder", "elbow"]
+    },
+    {
+      "id": "ceo_03",
+      "chapter_title": "Hip and Lower Limb",
+      "key_topics": [
+        "hip pain",
+        "knee injuries",
+        "ankle sprain",
+        "foot injuries"
+      ],
+      "summary": "Covers high-yield lower limb orthopaedic presentations.",
+      "tags": ["lower limb", "knee", "ankle"]
+    },
+    {
+      "id": "ceo_04",
+      "chapter_title": "Spine",
+      "key_topics": [
+        "low back pain",
+        "red flags",
+        "radiculopathy"
+      ],
+      "summary": "Discusses spine evaluation and recognition of serious pathology.",
+      "tags": ["spine", "back pain"]
+    }
+  ]
+}
