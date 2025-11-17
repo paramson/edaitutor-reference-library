@@ -1,0 +1,57 @@
+{
+  "title": "Obstetric Emergencies",
+  "short_name": "Obs Emergencies",
+  "edition": "1st",
+  "type": "textbook_index",
+  "role_in_edaitutor": "Obstetric reference for pregnancy-related emergencies including hypertensive disorders, bleeding, labour complications, and postpartum emergencies.",
+  "chapters": [
+    {
+      "id": "obs_01",
+      "chapter_title": "Approach to the Pregnant Patient in the ED",
+      "key_topics": [
+        "physiologic changes in pregnancy",
+        "maternal assessment",
+        "foetal assessment",
+        "red flags"
+      ],
+      "summary": "Covers initial ED assessment of pregnant patients with focus on maternal and foetal well-being.",
+      "tags": ["pregnancy", "assessment"]
+    },
+    {
+      "id": "obs_02",
+      "chapter_title": "Early Pregnancy Emergencies",
+      "key_topics": [
+        "ectopic pregnancy",
+        "miscarriage",
+        "PV bleeding",
+        "hyperemesis"
+      ],
+      "summary": "Summarises evaluation of first trimester complications.",
+      "tags": ["ectopic", "first trimester"]
+    },
+    {
+      "id": "obs_03",
+      "chapter_title": "Hypertensive Disorders in Pregnancy",
+      "key_topics": [
+        "pre-eclampsia",
+        "eclampsia",
+        "HELLP",
+        "BP control"
+      ],
+      "summary": "Describes recognition and management of pregnancy-related hypertensive disorders.",
+      "tags": ["pre-eclampsia", "HELLP"]
+    },
+    {
+      "id": "obs_04",
+      "chapter_title": "Labour and Delivery Complications",
+      "key_topics": [
+        "preterm labour",
+        "PPROM",
+        "shoulder dystocia",
+        "postpartum haemorrhage"
+      ],
+      "summary": "Outlines acute management of labour complications and postpartum emergencies in the ED.",
+      "tags": ["PPH", "labour", "shoulder dystocia"]
+    }
+  ]
+}
