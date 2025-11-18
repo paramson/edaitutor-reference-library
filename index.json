@@ -88,6 +88,7 @@
     "guideline_indexes": {
   "description": "Clinical guideline indexes used by ED AI Tutor for resuscitation, arrhythmias, paediatrics, neonatal care, and anaphylaxis.",
   "files": [
+    "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/acute_pain_management_2020_index.json",
     "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/anaphylaxis_aus_algorithm_index.json",
     "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/anzcor_als_adult_index.json",
     "https://raw.githubusercontent.com/paramson/edaitutor-reference-library/main/guideline_indexes/anzcor_pals_paediatric_index.json",
